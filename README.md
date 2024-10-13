@@ -8,4 +8,4 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 
 1. Bu projeyi klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/repo-adi.git
+   git clone https://github.com/sehribany/MemoryManagement.git
